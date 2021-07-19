@@ -1,0 +1,28 @@
+.hidden{
+    display: none;
+} 
+
+.wh{
+    width: 200px;
+    height: 200px;
+}
+.new{
+    width: 500px;
+    height: 500px;
+} 
+
+
+.main{
+    border: 3px solid black;
+    width: 190px;
+    margin: 10px auto;
+}
+.btn{
+    width: 100%;
+}
+input{
+    width: 96%;
+}
+button{
+    border-radius: 13px;
+    padding: 5px;}
